@@ -123,7 +123,7 @@ export const Chat = ({room}) => {
     return (
         <div className="chat-app">
             <div className="header"> 
-                <h1>SegMap ChatRoom</h1> 
+                <h1>SegMap-ChatRoom</h1> 
             </div>
             <div className="namecontainer">
                 <div className="Left-container"> Room Name  :  {room}</div>
